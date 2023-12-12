@@ -1,29 +1,23 @@
 
 | CS-665       | Software Design & Patterns |
 |--------------|----------------------------|
-| Name         | FIRST_NAME LAST_NAME       |
-| Date         | MM/DD/YYYY                 |
-| Course       | Fall / Spring / Summer     |
-| Assignment # |                            |
+| Name         |        Qi   Feng           |
+| Date         | 12/12/2023                 |
+| Course       |           Fall             |
+| Assignment # |      Final Project         |
 
 # Assignment Overview
-Please add a paragraph or two overviewing the objectives of the assignment.
+Using Bridge Design patern and Observe Design pattern
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+https://github.com/{Rivendell-FQ}/cs-665-assignment-{FinalProject}
 
 # Implementation Description 
 
 
-For each assignment, please answer the following:
-
-- Explain the level of flexibility in your implementation, including how new object types can
-be easily added or removed in the future.
-- Discuss the simplicity and understandability of your implementation, ensuring that it is
-easy for others to read and maintain.
-- Describe how you have avoided duplicated code and why it is important.
-- If applicable, mention any design patterns you have used and explain why they were
-chosen.
+-Use the Bridge Design pattern and Observe Design pattern, easy for user to use.
+-Implement the GUI for main class, easy to see the change after enhanced the weapon's data
+-Pass the mvn test and mvn compile, and have 2 JUnit test for Weapon.java and Enhanced.java
 
 
 # Maven Commands
